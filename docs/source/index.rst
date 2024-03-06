@@ -41,8 +41,8 @@ Contents
 .. toctree::
    usage
 
-   Support
-   -------
+Support
+-------
    createissue
    contactus
    
