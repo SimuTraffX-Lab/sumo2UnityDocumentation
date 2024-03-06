@@ -39,7 +39,6 @@ Contents
 --------
 
 .. toctree::
-:caption: Getting Started
    usage
    api
    test
