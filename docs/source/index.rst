@@ -49,8 +49,8 @@ What's New?
 ===========
 
 **Feb 2024**
-- New Environment
-- New Simulator Car
+* New Environment
+* New Simulator Car
 
 
 FAQ
