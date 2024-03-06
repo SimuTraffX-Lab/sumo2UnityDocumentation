@@ -40,11 +40,11 @@ Contents
 
 .. toctree::
    usage
-   api
 
-   :caption: Support
-   contactus
+   Support
+   -------
    createissue
+   contactus
    
 
 What's New?
