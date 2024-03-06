@@ -39,7 +39,6 @@ Contents
 --------
 
 .. toctree::
-   index
    usage
    faq
    createissue
