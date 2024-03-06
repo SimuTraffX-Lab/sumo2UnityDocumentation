@@ -53,7 +53,7 @@ To change the simulation settings follow the steps:
    #. Open Sumo2Unity file to see the simulation.
    #. To modify, Click on ``Edit > Open network in netedit`` or press ``ctrl + T``.
 
-- Change Vehicle Settings
+**Change Vehicle Settings**
 Inside Netedit, you can change vehicle settings by following these steps:
 
    #. Go to ``Demand`` tab on top middle of the interface
@@ -80,7 +80,7 @@ Inside Netedit, you can change vehicle settings by following these steps:
 
 
 
-****Change Traffic Signal Settings
+**Change Traffic Signal Settings**
 Inside Netedit, you can change traffic signal settings by following these steps:
 
    #. Go to ``Network`` mode on the top middle of the interface
