@@ -11,7 +11,8 @@ As of now it is available for Windows, MacOS, and Linux.
 
 To download and install follow these steps:
 
-- Pre-Requisites
+Pre-Requisites
+-------
 
 You need to install these Pre-requisite softwares to setup the environment to run **SUMO2Unity**.
    * Download and Install Sumo
@@ -22,11 +23,12 @@ You need to install these Pre-requisite softwares to setup the environment to ru
          #. You can install the recommended version by Unity or you can choose version 2022.3.16f1.
          #. You can opt out of downloading Microsoft Visual Studio, if you do not plan to modify the code.
 
-- Installing **Sumo2Unity**
+Installing **Sumo2Unity**
+-------
 #. Go to **Sumo2Unity** `GitHub Repo <https://github.com/SUMO2Unity/SUMO2Unity>`_.
 #. Clone the repo: ``git clone https://github.com/SUMO2Unity/SUMO2Unity`` or download it as a zip file.
 #. Once downloaded, open the project using Unity on the recommended version.
-#. In the editor, go to _Project/Scenes and open SUMO2Unity scene.
+#. In the editor, go to `_Project/Scenes`_ and open SUMO2Unity scene.
 #. Click on the play button to start the simulation.
 
 

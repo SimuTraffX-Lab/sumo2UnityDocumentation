@@ -43,3 +43,13 @@ Contents
    usage
    api
    test
+
+FAQ
+===
+
+If you run into problems, check the FAQ and feel free to post issues in the `Sumo2Unity Repo <https://github.com/SUMO2Unity/SUMO2Unity/issues>`_ repository.
+
+License
+=======
+
+
