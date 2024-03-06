@@ -30,37 +30,37 @@ Installing **Sumo2Unity**
 
 .. _How to Use:
 
-How to Use?
+How To Use?
 ===========
 
-Play mode
+Play Mode
 ----------
 
-- Controlling the Simulation
-Once the simulation is started, users can navigate the environment through the "Simulator Car." 
-Control the Simulator Car using either the arrow keys or the "WASD" keys on your keyboard.
+**Controlling the Simulation**
+   Once the simulation is started, users can navigate the environment through the "Simulator Car." 
+   Control the Simulator Car using either the arrow keys or the "WASD" keys on your keyboard.
 
-- Viewing the Environment
-To freely move the camera and explore the environment from different perspectives, switch to "Scene Mode." 
-The simulation can be paused at any time by pressing the pause button located at the top of the interface. 
+**Viewing the Environment**
+   To freely move the camera and explore the environment from different perspectives, switch to "Scene Mode." 
+   The simulation can be paused at any time by pressing the pause button located at the top of the interface. 
 
 Simulation Settings
 -------------------
 
 To change the simulation settings follow the steps:
 
-#. In File Explorer, go to ``Assets/_Project/Sumo_Data``
-#. Open Sumo2Unity file to see the simulation.
-#. To modify, Click on ``Edit > Open network in netedit`` or press ``ctrl + T``.
+   #. In File Explorer, go to ``Assets/_Project/Sumo_Data``
+   #. Open Sumo2Unity file to see the simulation.
+   #. To modify, Click on ``Edit > Open network in netedit`` or press ``ctrl + T``.
 
 - Change Vehicle Settings
 Inside Netedit, you can change vehicle settings by following these steps:
 
-#. Go to ``Demand`` tab on top middle of the interface
-#. Click on ``Create Vehicle Mode`` which is a vehicle icon, just below the ``Demand`` button.
-#. Here you can customise the vehicle and add new routes.
-#. To add a new route, simply start selection routes in the network.
-#. Once route is designed, click on ``Finish route creation`` on the bottom left of the screen.
+   #. Go to ``Demand`` tab on top middle of the interface
+   #. Click on ``Create Vehicle Mode`` which is a vehicle icon, just below the ``Demand`` button.
+   #. Here you can customise the vehicle and add new routes.
+   #. To add a new route, simply start selecting routes in the network.
+   #. Once route is designed, click on ``Finish route creation`` on the bottom left of the screen.
 
 .. note::
 
@@ -80,13 +80,13 @@ Inside Netedit, you can change vehicle settings by following these steps:
 
 
 
-- Change Traffic Signal Settings
+****Change Traffic Signal Settings
 Inside Netedit, you can change traffic signal settings by following these steps:
 
-#. Go to ``Network`` mode on the top middle of the interface
-#. Click on ``Set traffic light mode`` which is a traffic light icon.
-#. Select a junction you want to modify.
-#. Click on Create button.
+   #. Go to ``Network`` mode on the top middle of the interface
+   #. Click on ``Set traffic light mode`` which is a traffic light icon.
+   #. Select a junction you want to modify.
+   #. Click on Create button.
 
 
 
