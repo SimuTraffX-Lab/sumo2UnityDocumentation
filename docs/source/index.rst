@@ -39,9 +39,9 @@ Contents
 --------
 
 .. toctree::
-   :caption: Getting Started
    usage
    createissue
+   contactus
    
 
 What's New?
