@@ -39,10 +39,19 @@ Contents
 --------
 
 .. toctree::
-
+:caption: {Getting Started}
    usage
    api
    test
+
+What's New?
+===========
+
+- March 2024
+
+
+
+
 
 FAQ
 ===

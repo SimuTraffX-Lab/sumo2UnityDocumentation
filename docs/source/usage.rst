@@ -28,24 +28,7 @@ Installing **Sumo2Unity**
 #. Go to **Sumo2Unity** `GitHub Repo <https://github.com/SUMO2Unity/SUMO2Unity>`_.
 #. Clone the repo: ``git clone https://github.com/SUMO2Unity/SUMO2Unity`` or download it as a zip file.
 #. Once downloaded, open the project using Unity on the recommended version.
-#. In the editor, go to `_Project/Scenes`_ and open SUMO2Unity scene.
+#. In the editor, go to ``_Project/Scenes`` and open SUMO2Unity scene.
 #. Click on the play button to start the simulation.
 
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
