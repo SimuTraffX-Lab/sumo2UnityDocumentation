@@ -26,7 +26,7 @@ features for modeling complex transportation systems, including:
 * Route finding, visualization, network import, and emission calculation
 * Remote control and customization through various APIs
 
-Unity provides a robust and user-friendly platform for creating interactive 3D experiences. 
+**Unity** provides a robust and user-friendly platform for creating interactive 3D experiences. 
 By combining the strengths of these two powerful tools, Sumo2Unity empowers you to bridge 
 the gap between simulation and visualization, opening doors to innovative research, development, 
 and educational applications in the field of transportation.
@@ -39,10 +39,12 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
    usage
-
    createissue
-   contactus
+   
+   createissue
    
 
 What's New?

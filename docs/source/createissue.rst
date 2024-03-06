@@ -1,5 +1,5 @@
-How To Create an Issue?
-=======================
+Create Issue
+============
 
 Visit `Issues <https://github.com/SUMO2Unity/SUMO2Unity/issues>`_ to create a new issue.
 
