@@ -39,10 +39,8 @@ Contents
 --------
 
 .. toctree::
-   :caption: Getting Started
    usage
 
-   :caption: Support
    createissue
    contactus
    
