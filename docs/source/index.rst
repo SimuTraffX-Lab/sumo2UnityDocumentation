@@ -44,8 +44,6 @@ Contents
    usage
    createissue
    
-   createissue
-   
 
 What's New?
 ===========
