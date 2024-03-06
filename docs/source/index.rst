@@ -39,9 +39,13 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Getting Started
    usage
 
-.. sidebar:: Support
+
+   :maxdepth: 2
+   :caption: Getting Started
    createissue
    contactus
    
