@@ -13,7 +13,7 @@ applications in transportation.
 
 **How to install Sumo2Unity?**
 
-You can find specific download and setup instructions in the :ref:`installation_steps` section of the :doc:`Installation` guide.
+You can find specific download and setup instructions in `here <https://sumo2unitydocumentation.readthedocs.io/en/latest/usage.html>`_.
 
 **Is Sumo2Unity free?**
 
