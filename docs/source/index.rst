@@ -41,7 +41,11 @@ Contents
 .. toctree::
    usage
    api
-   test
+
+   :caption: Support
+   contactus
+   createissue
+   
 
 What's New?
 ===========

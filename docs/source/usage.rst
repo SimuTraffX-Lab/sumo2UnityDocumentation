@@ -1,4 +1,4 @@
-.. _installation:
+.. _Getting Started:
 
 Installation
 =====
@@ -28,7 +28,6 @@ Installing **Sumo2Unity**
 #. Click on the play button to start the simulation.
 
 
-.. _How to Use:
 
 How To Use?
 ===========
@@ -77,7 +76,7 @@ Inside Netedit, you can change vehicle settings by following these steps:
       - EloraBlue
       - EloraWhite
 
-   For example, ``AlmaBlue_01`` id will instantiate an Alma Blue color npc vehicle.
+   For example, ``AlmaBlue_01`` id will instantiate an Alma Blue color vehicle.
 
 
 
