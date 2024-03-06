@@ -39,13 +39,12 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Getting Started
    usage
 
 
-   :maxdepth: 2
-   :caption: Getting Started
+   :caption: Support
    createissue
    contactus
    
