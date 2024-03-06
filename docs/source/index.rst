@@ -48,18 +48,20 @@ Contents
 What's New?
 ===========
 
-- March 2024
-
-
-
+Feb 2024
+~~~~~~~~~~
+- New Environment
+- New Simulator Car
 
 
 FAQ
 ===
 
-If you run into problems, check the FAQ and feel free to post issues in the `Sumo2Unity Repo <https://github.com/SUMO2Unity/SUMO2Unity/issues>`_ repository.
+If you run into problems, check the `FAQ <https://sumo2unitydocumentation.readthedocs.io/en/latest/faq.html#>`_ and feel free to post issues in the `Sumo2Unity Repo <https://github.com/SUMO2Unity/SUMO2Unity/issues>`_ repository.
 
 License
 =======
+
+Free Open Source Project
 
 

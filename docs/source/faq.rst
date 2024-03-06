@@ -1,7 +1,7 @@
 FAQ
 ===
 
-* What is Sumo2Unity?
+**What is Sumo2Unity?**
 
 Sumo2Unity is a software that seamlessly integrates SUMO with Unity.
 This software bridges the gap between microscopic 
@@ -11,11 +11,11 @@ insights through real-time observation and interaction. This can be used to leve
 the combined power of both platforms for research, development, and educational 
 applications in transportation.
 
-* How to install Sumo2Unity?
+**How to install Sumo2Unity?**
 
 You can find specific download and setup instructions in the :ref:`installation_steps` section of the :doc:`Installation` guide.
 
-* Is Sumo2Unity free?
+**Is Sumo2Unity free?**
 
 Yes. Sumo2Unity is free open source project.
 
