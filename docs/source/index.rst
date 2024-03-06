@@ -38,7 +38,13 @@ and educational applications in the field of transportation.
 Contents
 --------
 
+.. toctree::
+   usage
 
+.. sidebar:: Support
+   createissue
+   contactus
+   
 
 What's New?
 ===========
